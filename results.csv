@@ -1,0 +1,61 @@
+Model,Params,Mean_Test_Score
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 2}",0.40075471698113213
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 5}",0.3837735849056604
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 10}",0.3777358490566038
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 2}",0.24037735849056605
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 5}",0.24037735849056605
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 10}",0.24037735849056605
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 2}",0.319622641509434
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 5}",0.3143396226415094
+DecisionTreeClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 10}",0.3150943396226415
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 2}",0.40264150943396226
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 5}",0.3841509433962264
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 10}",0.3716981132075472
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 2}",0.24037735849056605
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 5}",0.24037735849056605
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 10}",0.24
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 2}",0.3245283018867925
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 5}",0.319622641509434
+RandomForestClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 10}",0.3154716981132076
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 2, 'model__n_estimators': 100}",0.3516981132075471
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 2, 'model__n_estimators': 200}",0.35358490566037737
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 2, 'model__n_estimators': 300}",0.3520754716981132
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 5, 'model__n_estimators': 100}",0.34867924528301886
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 5, 'model__n_estimators': 200}",0.349811320754717
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 5, 'model__n_estimators': 300}",0.3433962264150943
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 10, 'model__n_estimators': 100}",0.33999999999999997
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 10, 'model__n_estimators': 200}",0.339622641509434
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': None, 'model__min_samples_split': 10, 'model__n_estimators': 300}",0.33358490566037735
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 2, 'model__n_estimators': 100}",0.14339622641509434
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 2, 'model__n_estimators': 200}",0.14301886792452828
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 2, 'model__n_estimators': 300}",0.14452830188679244
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 5, 'model__n_estimators': 100}",0.14867924528301885
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 5, 'model__n_estimators': 200}",0.14754716981132074
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 5, 'model__n_estimators': 300}",0.14490566037735847
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 10, 'model__n_estimators': 100}",0.14339622641509434
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 10, 'model__n_estimators': 200}",0.13999999999999999
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 10, 'model__n_estimators': 300}",0.14301886792452828
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 2, 'model__n_estimators': 100}",0.26943396226415095
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 2, 'model__n_estimators': 200}",0.2667924528301887
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 2, 'model__n_estimators': 300}",0.2671698113207547
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 5, 'model__n_estimators': 100}",0.2656603773584906
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 5, 'model__n_estimators': 200}",0.2660377358490566
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 5, 'model__n_estimators': 300}",0.2683018867924528
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 10, 'model__n_estimators': 100}",0.26452830188679244
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 10, 'model__n_estimators': 200}",0.26490566037735847
+RandomForestClassifier,"{'model': RandomForestClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 10, 'model__n_estimators': 300}",0.2675471698113207
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 2}",0.40150943396226413
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 5}",0.38264150943396225
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': None, 'model__min_samples_split': 10}",0.3781132075471698
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 2}",0.24
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 5}",0.24037735849056605
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 5, 'model__min_samples_split': 10}",0.24
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 2}",0.31924528301886795
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 5}",0.32
+KNeighborsClassifier,"{'model': DecisionTreeClassifier(), 'model__max_depth': 10, 'model__min_samples_split': 10}",0.3173584905660377
+KNeighborsClassifier,"{'model': KNeighborsClassifier(), 'model__n_neighbors': 3, 'model__weights': 'uniform'}",0.3664150943396226
+KNeighborsClassifier,"{'model': KNeighborsClassifier(), 'model__n_neighbors': 3, 'model__weights': 'distance'}",0.36264150943396223
+KNeighborsClassifier,"{'model': KNeighborsClassifier(), 'model__n_neighbors': 5, 'model__weights': 'uniform'}",0.34641509433962264
+KNeighborsClassifier,"{'model': KNeighborsClassifier(), 'model__n_neighbors': 5, 'model__weights': 'distance'}",0.35018867924528296
+KNeighborsClassifier,"{'model': KNeighborsClassifier(), 'model__n_neighbors': 7, 'model__weights': 'uniform'}",0.32867924528301884
+KNeighborsClassifier,"{'model': KNeighborsClassifier(), 'model__n_neighbors': 7, 'model__weights': 'distance'}",0.3350943396226415
